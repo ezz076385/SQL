@@ -2,4 +2,4 @@ SELECT *
 
 FROM customers
 
-WHERE score >= 500
+WHERE NOT score > 500
